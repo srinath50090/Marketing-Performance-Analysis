@@ -217,20 +217,32 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
 ## Skills Demonstrated
 
-- **SQL:** PostgreSQL, DDL, CTEs, joins, views, data cleaning, date filtering, data quality checks, and duplicate detection.
-- **Power BI:** DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
-- **Analytics:** Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
-- **Business Skills:** KPI development, performance investigation, budget optimization recommendations, and decision support.
+- **SQL:**
+
+        PostgreSQL, DDL, CTEs, joins, views, data cleaning, date filtering, data quality checks, and duplicate detection.
+  
+- **Power BI:**
+
+        DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
+  
+- **Analytics:**
+
+        Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
+
+- **Business Skills:**
+
+        KPI development, performance investigation, budget optimization recommendations, and decision support.
+
 
 ---
 
-## Data Limitations
+> ## Data Limitations
 
-- This project uses synthetic data, so the findings may not represent actual business outcomes.
-- Marketing-attributed revenue and profitability metrics depend on the available data and assumptions.
-- Campaigns with short durations may not have enough data for reliable long-term conclusions.
-- Observed relationships between budget and performance do not prove causation.
-- The exact revenue attribution logic, ROI formula, and cost components should be verified in the Power BI model before using the findings for real budget decisions.
+> - This project uses synthetic data, so the findings may not represent actual business outcomes.
+> - Marketing-attributed revenue and profitability metrics depend on the available data and assumptions.
+> - Campaigns with short durations may not have enough data for reliable long-term conclusions.
+> - Observed relationships between budget and performance do not prove causation.
+> - The exact revenue attribution logic, ROI formula, and cost components should be verified in the Power BI model before using the findings for real budget decisions.
 
 ---
 
