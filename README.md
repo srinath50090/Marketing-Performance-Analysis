@@ -239,9 +239,11 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 - **SQL scripts:**
 
 [DDL's](SQL/01.DDL's.sql)
+
 [Data Cleaning & Quality Checks](SQL/02.Data%20Cleaning%20%26%20Quality%20Checks.sql)
 
 - **Power BI report:**
+
 [Open or download the PBIX file](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)
 
 
@@ -256,7 +258,9 @@ I am eager to contribute my SQL, Power BI, and analytical skills to a team, solv
 If you are hiring for an entry-level analytics role or would like to discuss my project, I would be happy to connect.
 
 [Linkedin](https://www.linkedin.com/in/srinathvenkatachalam/)
+
 [Github](https://github.com/srinath50090/)
+
 **Email:** srinath50090@gmail.com
 
 
