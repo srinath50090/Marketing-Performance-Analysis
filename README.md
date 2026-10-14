@@ -37,7 +37,7 @@ This project addresses the following marketing problems:
 - Investigated whether product mix and campaign duration could help explain performance differences.
 - Developed data-driven recommendations for budget control, product selection, campaign monitoring, and further testing.
 
-**[View Interactive Power BI Report](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)**
+**[Download Interactive Power BI Report](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)**
 
 
 This project demonstrates my ability to combine technical skills, analytical thinking, and business understanding to investigate marketing problems.
