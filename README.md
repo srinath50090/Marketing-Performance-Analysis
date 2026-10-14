@@ -219,19 +219,19 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
 - **SQL:**
 
-    --> PostgreSQL, DDL, CTEs, joins, views, data cleaning, date filtering, data quality checks, and duplicate detection.
+     * PostgreSQL, DDL, CTEs, joins, views, data cleaning, date filtering, data quality checks, and duplicate detection.
   
 - **Power BI:**
 
-    --> DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
+     * DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
   
 - **Analytical Skills:**
 
-    --> Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
+     * Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
 
 - **Business Skills:**
 
-    --> KPI development, performance investigation, budget optimization recommendations, and decision support.
+     * KPI development, performance investigation, budget optimization recommendations, and decision support.
 
 
 ---
