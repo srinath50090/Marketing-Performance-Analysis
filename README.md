@@ -137,7 +137,7 @@ reallocation after performance validation.
   -----------------------------------------------------------------------
 
 - ROAS ( Return on Ad Spend )   = Marketing Revenue ÷ Marketing Spend
-- ROI ( Return on Investment )  = ( Net Profit - Marketing Spend ) ÷ Marketing Spend x 100
+- ROI ( Return on Investment )  = ( Gross Profit - Marketing Spend ) ÷ Marketing Spend x 100
 - CPC ( Cost Per Click )        = Marketing Spend ÷ Total Clicks
 - CPA ( Cost Per Acquisition )  = Marketing Spend ÷ Total Conversions
 - CTR ( Click-Through Rate )    = ( Clicks ÷ Impressions ) x 100
