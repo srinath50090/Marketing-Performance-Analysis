@@ -313,31 +313,6 @@ not assume that historical correlation guarantees future improvement.
 > the **available data** and stated assumptions. Results may differ from
 > actual business performance.
 
-------------------------------------------------------------------------
-
-## Repository Structure
-
-``` text
-ecommerce-marketing-performance-analytics/
-├── README.md
-├── sql/
-│   ├── 01.DDL's.sql
-│   └── 02.Data Cleaning & Quality Checks.sql
-├── powerbi/
-│   └── Marketing_Performance_Analytics.pbix
-└── screenshots/
-    ├── marketing-overview.png
-    ├── marketing-filters.png
-    ├── campaign-metrics-table.png
-    ├── marketing-campaign-tooltip.png
-    ├── overspend-campaign-tooltip.png
-    ├── cost-conversions.png
-    ├── cost-conversions-date-filter.png
-    ├── recommendations.png
-    ├── recommendations-details.png
-    └── powerbi-data-model.png
-```
-
 -----------------------------------------------------------------------------------
 ## Skills Applied
 **Technical Skills**
