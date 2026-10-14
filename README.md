@@ -100,12 +100,12 @@ The Recommendations page connects campaign observations to proposed actions, inc
 
 | KPI | Definition |
 |---|---|
-| **ROAS (Return on Ad Spend)** | Marketing-attributed revenue ÷ marketing spend |
-| **ROI (Return on Investment)** | Depends on the profit and cost components included in the calculation |
-| **CPC (Cost Per Click)** | Marketing spend ÷ total clicks |
-| **CPA (Cost Per Acquisition)** | Marketing spend ÷ total conversions |
-| **CTR (Click-Through Rate)** | (Clicks ÷ impressions) × 100 |
-| **Click-to-Conversion Rate** | (Total conversions ÷ total clicks) × 100 |
+| **ROAS (Return on Ad Spend)** | Marketing-attributed Revenue ÷ Marketing Spend |
+| **ROI (Return on Investment)** | Marketing-attributed Net Profit ÷ Marketing Spend |
+| **CPC (Cost Per Click)** | Marketing Spend ÷ Total Clicks |
+| **CPA (Cost Per Acquisition)** | Marketing Spend ÷ Total Conversions |
+| **CTR (Click-Through Rate)** | (Clicks ÷ Impressions) × 100 |
+| **Click-to-Conversion Rate** | (Total Conversions ÷ Total Clicks) × 100 |
 
 ---
 
