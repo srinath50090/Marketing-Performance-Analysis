@@ -116,7 +116,7 @@ The Recommendations page connects campaign observations to proposed actions, inc
 
 > *These are observations from synthetic data, not proof of causal relationships or guaranteed future outcomes.*
 
-### 1. Twelve campaigns generated comparatively weaker returns
+### 1. 12 campaigns generated comparatively weaker returns
 
 The analysis identified the following campaigns as spending significant marketing amounts while generating lower returns compared with other campaigns:
 
@@ -144,7 +144,7 @@ The analysis identified the following campaigns as spending significant marketin
 - **Transform Turn-Key Channels and Enable Turn-Key Niches:** These campaigns promoted some valuable products but were reported as failing to convert those products into profit. Both had run for less than two months.
 - **Drive Scalable Technologies:** This campaign spent about ₹20K per day and was reported as generating losses on every valuable product reviewed over the preceding three months.
 
-### 3. Ten campaigns overspent their allocated budgets
+### 3. 10 campaigns overspent their allocated budgets
 
 1. Enhance Best-Of-Breed Bandwidth
 2. Reinvent Leading-Edge Supply-Chains
@@ -159,7 +159,7 @@ The analysis identified the following campaigns as spending significant marketin
 
 These campaigns warrant a review of daily spend against the allocated budget and the returns generated during the same period.
 
-### 4. Ten campaigns appeared to perform slightly better when budget increased
+### 4. 10 campaigns appeared to perform slightly better when budget increased
 
 1. Grow Sticky Methodologies
 2. Scale Synergistic E-Business
