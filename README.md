@@ -2,14 +2,6 @@
 
 **SQL | PostgreSQL | Power BI | DAX | Marketing Analytics**
 
-I built this end-to-end analytics project to investigate marketing campaign performance, identify budget inefficiencies, and translate data into actionable business recommendations.
-
-Using PostgreSQL, I prepared and validated the data. Using Power BI, I developed interactive dashboards to analyze campaign returns, advertising costs, conversions, budget overspending, and product-level performance.
-
-**My objective:** Go beyond reporting marketing metrics to understand what the results indicate, identify potential performance issues, and recommend actions that support better marketing decisions.
-
-**[View Interactive Power BI Report](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)**
-
 ---
 
 ## Project Overview
@@ -44,6 +36,9 @@ This project addresses the following marketing problems:
 - Identified campaigns with comparatively weaker returns and potential budget overspending.
 - Investigated whether product mix and campaign duration could help explain performance differences.
 - Developed data-driven recommendations for budget control, product selection, campaign monitoring, and further testing.
+
+**[View Interactive Power BI Report](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)**
+
 
 This project demonstrates my ability to combine technical skills, analytical thinking, and business understanding to investigate marketing problems.
 
