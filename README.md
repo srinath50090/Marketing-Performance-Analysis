@@ -60,7 +60,7 @@ This project addresses the following marketing problems:
 
 ### 1. Marketing Performance - Overview
 
-![Marketing Performance Overview](01.png)
+![Marketing Performance Overview](Dashboard%20Images/01.png)
 
 
 **The Scatter plot can solve :**
