@@ -107,8 +107,6 @@ The Recommendations page connects campaign observations to proposed actions, inc
 | **CTR (Click-Through Rate)** | (Clicks ÷ impressions) × 100 |
 | **Click-to-Conversion Rate** | (Total conversions ÷ total clicks) × 100 |
 
-**Metric note:** ROAS and ROI are not interchangeable. ROAS compares attributed revenue with advertising spend, while ROI depends on which additional costs are included. Check the exact DAX formula and attribution logic in the PBIX file. If the net profit measure already deducts marketing spend, do not subtract marketing spend a second time when calculating ROI.
-
 ---
 
 ## Key Findings at a Glance
