@@ -90,24 +90,24 @@ This project addresses the following marketing problems:
 
 ### 2. Filters and Campaign Details
 
-![Marketing Filters](02.png)
+![Marketing Filters](Dashboard%20Images/02.png)
 
-![Campaign Metrics Table](03.png)
+![Campaign Metrics Table](Dashboard%20Images/03.png)
 
-![Campaign Tooltip](04.png)
+![Campaign Tooltip](Dashboard%20Images/04.png)
 
 ![Overspend Campaign
-Tooltip](05.png)
+Tooltip](Dashboard%20Images/05.png)
 
 Filters and tooltips help investigate individual campaigns without
 displaying every metric in the main chart.
 
 ### 3. Cost & Conversions
 
-![Cost and Conversions](06.png)
+![Cost and Conversions](Dashboard%20Images/06.png)
 
 ![Cost and Conversions --- Date
-Filter](07.png)
+Filter](Dashboard%20Images/07.png)
 
 This page compares CPC and CPA, CTR and click-to-conversion rate,
 advertised product value, state-level response, and the customer
@@ -118,10 +118,10 @@ marketing-response breakdowns
 
 ### 4. Recommendations
 
-![Marketing Recommendations](08.png)
+![Marketing Recommendations](Dashboard%20Images/08.png)
 
 ![Marketing Recommendations ---
-Details](09.png)
+Details](Dashboard%20Images/09.png)
 
 The Recommendations page connects the campaign observations to proposed
 actions, including budget reductions for selected campaigns, continued
@@ -130,7 +130,7 @@ reallocation after performance validation.
 
 ### 5. Power BI Data Model
 
-![Power BI Data Model](10.png)
+![Power BI Data Model](Dashboard%20Images/10.png)
 
 ------------------------------------------------------------------------
 ## Marketing KPI Definitions
