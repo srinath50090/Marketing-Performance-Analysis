@@ -114,7 +114,7 @@ The Recommendations page connects campaign observations to proposed actions, inc
 
 **Business takeaway:** Clicks and conversions alone do not establish campaign success. Marketing decisions should also consider attributed revenue, acquisition costs, product-level returns, budget limits, and the amount of performance data available.
 
-*These are observations from synthetic data, not proof of causal relationships or guaranteed future outcomes.*
+> *These are observations from synthetic data, not proof of causal relationships or guaranteed future outcomes.*
 
 ### 1. Twelve campaigns generated comparatively weaker returns
 
