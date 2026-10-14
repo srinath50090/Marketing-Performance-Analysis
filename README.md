@@ -225,7 +225,7 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
         DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
   
-- **Analytics:**
+- **Analytical Skills:**
 
         Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
 
