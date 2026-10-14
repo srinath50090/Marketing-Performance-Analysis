@@ -261,7 +261,7 @@ If you are hiring for an entry-level analytics role or would like to discuss my 
 
 [Github](https://github.com/srinath50090/)
 
-**Email:** srinath50090@gmail.com
+[Email](srinath50090@gmail.com)
 
 
 Thank you for taking the time to review my work.
