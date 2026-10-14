@@ -236,9 +236,10 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
 ## Project Files
 
+- **SQL scripts:**
+        [DDL's]()
 - **Power BI report:** [Open or download the PBIX file](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)
-- **SQL scripts:** Add your DDL and data-cleaning SQL files to the repository under the `sql/` folder.
-- **Dashboard screenshots:** Keep the images in the `Dashboard Images/` folder so the README previews render correctly on GitHub.
+
 
 ---
 
