@@ -276,7 +276,7 @@ If you are hiring for an entry-level analytics role or would like to discuss my 
 
 * [Revenue, Customer, Product & Campaign Analytics](https://github.com/srinath50090/Revenue-Customer-Product-Campaign-analysis)
 
-* [Ecommerce, Customers, Products & Campaign Analytics using SQL](https://github.com/srinath50090/Marketing_Ecommerce_Analytics_using_SQL)
+* [Marketing_Ecommerce_Analytics_using_SQL](https://github.com/srinath50090/Marketing_Ecommerce_Analytics_using_SQL)
 
 * [Introvert Extrovert Personality Prediction using Machine Learning](https://github.com/srinath50090/Introvert-Extrovert-Personality-Prediction-Using-Machine-Learning)
 
