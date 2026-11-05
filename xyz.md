@@ -1,7 +1,4 @@
 # Marketing Performance Analytics
-
-**SQL | PostgreSQL | Power BI | DAX | Marketing Analytics**
-
 ---
 
 ## Project Overview
