@@ -37,60 +37,8 @@ This project addresses the following marketing problems:
 - Investigated whether product mix and campaign duration could help explain performance differences.
 - Developed data-driven recommendations for budget control, product selection, campaign monitoring, and further testing.
 
-**[Download Interactive Power BI Report](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)**
-
 
 This project demonstrates my ability to combine technical skills, analytical thinking, and business understanding to investigate marketing problems.
-
----
-
-## Dashboard Preview
-
-### 1. Marketing Performance — Overview
-
-![Marketing Performance Overview](Dashboard%20Images/01.png)
-
-This page helps investigate:
-
-- Which campaigns generate stronger returns relative to their spend?
-- Which campaigns overspend their allocated budget?
-- Are high-budget campaigns generating proportionally higher revenue?
-- Which campaigns consume a high budget without sufficient revenue or return?
-
-### 2. Filters and Campaign Details
-
-![Marketing Filters](Dashboard%20Images/02.png)
-
-![Campaign Metrics Table](Dashboard%20Images/03.png)
-
-![Campaign Tooltip](Dashboard%20Images/04.png)
-
-![Overspend Campaign Tooltip](Dashboard%20Images/05.png)
-
-Filters and tooltips help investigate individual campaigns without displaying every metric in the main chart.
-
-### 3. Cost & Conversions
-
-![Cost and Conversions](Dashboard%20Images/06.png)
-
-![Cost and Conversions — Date Filter](Dashboard%20Images/07.png)
-
-This page compares CPC and CPA, CTR and click-to-conversion rate, advertised product value, state-level response, and customer-segment response.
-
-### 4. Recommendations
-
-![Marketing Recommendations](Dashboard%20Images/08.png)
-
-![Marketing Recommendations — Details](Dashboard%20Images/09.png)
-
-The Recommendations page connects campaign observations to proposed actions, including budget reductions for selected campaigns, continued monitoring where campaign periods are short, and possible budget reallocation after performance validation.
-
-### 5. Power BI Data Model
-
-![Power BI Data Model](Dashboard%20Images/10.png)
-
----
-
 ## Marketing KPI Definitions
 
 | KPI | Definition |
@@ -115,6 +63,7 @@ The Recommendations page connects campaign observations to proposed actions, inc
 **Business takeaway:** Clicks and conversions alone do not establish campaign success. Marketing decisions should also consider attributed revenue, acquisition costs, product-level returns, budget limits, and the amount of performance data available.
 
 > *These are observations from synthetic data, not proof of causal relationships or guaranteed future outcomes.*
+
 
 ### 1. 12 campaigns generated comparatively weaker returns
 
