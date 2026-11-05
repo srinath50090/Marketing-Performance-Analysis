@@ -156,27 +156,6 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
 ---
 
-## Skills Demonstrated
-
-- **SQL:**
-
-     * PostgreSQL, DDL, CTEs, joins, views, data cleaning, date filtering, data quality checks, and duplicate detection.
-  
-- **Power BI:**
-
-     * DAX, KPI measures, Power Query, data modeling, interactive dashboards, data visualization, slicers, tooltips, and bookmarks.
-  
-- **Analytical Skills:**
-
-     * Campaign performance, ROAS and ROI, acquisition costs, conversion analysis, budget monitoring, and product-level performance.
-
-- **Business Skills:**
-
-     * KPI development, performance investigation, budget optimization recommendations, and decision support.
-
-
----
-
 > ## Data Limitations
 
 > - This project uses synthetic data, so the findings may not represent actual business outcomes.
@@ -187,45 +166,3 @@ Consider testing a portion of the reduced budget on the ten campaigns that appea
 
 ---
 
-## Project Files
-
-- **SQL scripts:**
-
-[DDL's](SQL/01.DDL's.sql)
-
-[Data Cleaning & Quality Checks](SQL/02.Data%20Cleaning%20%26%20Quality%20Checks.sql)
-
-- **Power BI report:**
-
-[Open or download the PBIX file](https://drive.google.com/file/d/1Bd3tRn5VSFx2AW_pYGCrlVxyytF7IUe_/view?usp=drive_link)
-
-
----
-
-## 🤝 Open to Internship and Full-Time Opportunities
-
-I am actively seeking **Data Analyst, BI Analyst, Reporting Analyst, Business Analyst, and other data-related internship or full-time opportunities**.
-
-I am eager to contribute my SQL, Power BI, and analytical skills to a team, solve business problems using data, and continue learning through practical industry experience.
-
-If you are hiring for an entry-level analytics role or would like to discuss my project, I would be happy to connect.
-
-[Linkedin](https://www.linkedin.com/in/srinathvenkatachalam/)
-
-[Github](https://github.com/srinath50090/)
-
-**Email** : srinath50090@gmail.com
-
---- 
-
-**Other Projects**
-
-* [Revenue, Customer, Product & Campaign Analytics](https://github.com/srinath50090/Revenue-Customer-Product-Campaign-analysis)
-
-* [Marketing_Ecommerce_Analytics_using_SQL](https://github.com/srinath50090/Marketing_Ecommerce_Analytics_using_SQL)
-
-* [Introvert Extrovert Personality Prediction using Machine Learning](https://github.com/srinath50090/Introvert-Extrovert-Personality-Prediction-Using-Machine-Learning)
-
-and etc.
-
-Thank you for taking the time to review my work.
